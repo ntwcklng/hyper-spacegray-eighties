@@ -1,0 +1,30 @@
+{
+  "name": "hyperterm-spacegray-eighties",
+  "version": "0.0.3",
+  "description": "Spacegray Eighties Theme for HyperTerm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Error: no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwcklng/hyperterm-spacegray-eighties.git"
+  },
+  "keywords": [
+    "spacegray",
+    "eighties",
+    "hyperterm",
+    "theme"
+  ],
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntwcklng/hyperterm-spacegray-eighties/issues"
+  },
+  "homepage": "https://github.com/ntwcklng/hyperterm-spacegray-eighties#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.11.1"
+  }
+}
