@@ -1,5 +1,5 @@
-# `hyperterm-spacegray-eighties`
-A theme for the [HyperTerm](https://github.com/zeit/hyperterm) terminal.
+# `hyper-spacegray-eighties`
+A theme for the [Hyper](https://github.com/zeit/hyper) terminal.
 
 Fork from [https://github.com/mxstbr/hyperterm-spacegray](https://github.com/mxstbr/hyperterm-spacegray)
 
@@ -12,10 +12,10 @@ Contributions appreciated!
 
 ## Installation
 
-Add this to the plugins array in your `.hyperterm.js` and reload hyperterm to install it!
+Add this to the plugins array in your `.hyper.js` and reload hyper.app to install it!
 ```javascript
 plugins: [
-  'hyperterm-spacegray-eighties'
+  'hyper-spacegray-eighties'
 ]
 ```
 # License
